@@ -1,0 +1,16 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\bin\Debug\Radyo Kanalı.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\bin\Debug\Radyo Kanalı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\bin\Debug\Radyo Kanalı.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\bin\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Interop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.csproj.ResolveComReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo_Kanalı.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo_Kanalı.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Radyo Kanalı\Radyo Kanalı\obj\Debug\Radyo Kanalı.pdb
